@@ -15,5 +15,8 @@ Pull and Push request is also cognitively but not so helpful when I create my fi
 
 ## Create Pull Request
 
-I **hardly** recommended this article to everyone who can't create his first PR. The article helps me a lot and I am sure that the article may be useful. After reading I have no questions left. [How to Submit A Pull Request to Someone Else’s Repository?](https://learntocodetogether.com/create-your-first-pull-request/)
+I **hardly** recommended this article to everyone who can't create his first PR. The article helps me a lot and I am sure that the article may be useful. After reading I have no questions left. 
+
+[How to Submit A Pull Request to Someone Else’s Repository?](https://learntocodetogether.com/create-your-first-pull-request/)
+
 ![The article](https://github.com/YuliiaDikun/kottans-frontend/blob/main/Git%20Basics/PR.png)
