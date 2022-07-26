@@ -40,4 +40,8 @@ Please, look at all **tests** which I must be solved in the topic "Linux CLI, an
 
 Working out the sourses, I learn so much *modern*, *interesting* and *useful* information! I have never used Linux before, so I can tell that experience is brand new to me. I learned a lot of valuable commands, wildcards, and flags. Now I know the difference between home and current directory. And last of all, if I forget some command or I will need an explanation, I always can use a **"man"** command.
 
-Remarking on the articles, it is worth saying that they allowed me to understand the HTTP protocol correctly. Especially the caching process, authentication, security, and more. After reading the first chapter I need to use additional materials, but I think I managed to master the material. Anyway, I am ready for the next level.
+Remarking on the articles, it is worth saying that they allowed me to understand the HTTP protocol correctly. Especially the caching process, authentication, security, and more. After reading I need to use additional materials, but I think I managed to master the material. 
+
+[A Web Developer’s Guide to Browser Caching](https://medium.com/@codebyamir/a-web-developers-guide-to-browser-caching-cc41f3b73e7c)
+
+Anyway, I am ready for the next level.
