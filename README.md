@@ -54,7 +54,7 @@ Anyway, I am ready for the next level.
  ![Basic](task_git_collaboration/learn-git-1.png) 
  ![Pull&Push](task_git_collaboration/learn-git-2.png) 
  ![Week_3](task_git_collaboration/module_3.png) 
- ![Week_4](task_git_collaboration/Module_4.png.)
+ ![Week_4](task_git_collaboration/Module_4.png)
   
  </details>
 
