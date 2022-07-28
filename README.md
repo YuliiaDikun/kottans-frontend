@@ -16,7 +16,7 @@ Pull and Push request is also cognitively but not so helpful when I create my fi
   
  </details>
 
-## Create Pull Request
+### Create Pull Request
 
 I **hardly** recommended this article to everyone, who can't create his first PR. The article helps me a lot and I am sure, that the article may be useful for anyone. After reading, I have no questions left. 
 
@@ -45,3 +45,22 @@ Remarking on the articles, it is worth saying that they allowed me to understand
 [A Web Developer’s Guide to Browser Caching](https://medium.com/@codebyamir/a-web-developers-guide-to-browser-caching-cc41f3b73e7c)
 
 Anyway, I am ready for the next level.
+
+## Git Collaboration
+
+<details> 
+ <summary>Git Collaboration</summary> 
+  
+ ![Basic](task_git_collaboration/learn-git-1.png) 
+ ![Pull&Push](task_git_collaboration/learn-git-2.png) 
+ ![Week_3](task_git_collaboration/module_3.png) 
+ ![Week_4](task_git_collaboration/Module_4.png.png)
+  
+ </details>
+
+Please, look at all tests which I must be solved on the topic "Git Collaboration". First of all, I need to say that I pass week 1 and week 2 in Coursera too. Just to fresh my knowledge. And I like "Introduction in Git" on Udasity more. 
+
+Also, after I did my first pull request, learning how to do it was really confusing. But I treated this as a repetition of already established material. 
+Learning how to do rebase was really new to me, so I can practice more and understand better how it works in Git. 
+
+After all, I am proud of myself for passing this stage.
