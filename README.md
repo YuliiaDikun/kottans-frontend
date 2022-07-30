@@ -1,4 +1,6 @@
 # kottans-frontend
+___
+
 ## Version Control with Git
 
 The Course **"Version Control with Git"** is useful for understanding the basic principles of how to use Git in my job. I understand what is version control system and what commands are necessary to work with GIT. Also, I liked taking the course in English. 
@@ -24,6 +26,8 @@ I **hardly** recommended this article to everyone, who can't create his first PR
 
 ![The article](https://github.com/YuliiaDikun/kottans-frontend/blob/main/Git%20Basics/PR.png)
 
+___
+
 ## Linux CLI, and HTTP
 
 Please, look at all **tests** which I must be solved in the topic "Linux CLI, and HTTP". 
@@ -46,7 +50,11 @@ Remarking on the articles, it is worth saying that they allowed me to understand
 
 Anyway, I am ready for the next level.
 
+___
+
 ## Git Collaboration
+
+Please, look at all **tests** which I must be solved on the topic "Git Collaboration".
 
 <details> 
  <summary>Git Collaboration</summary> 
@@ -58,9 +66,32 @@ Anyway, I am ready for the next level.
   
  </details>
 
-Please, look at all tests which I must be solved on the topic "Git Collaboration". First of all, I need to say that I pass week 1 and week 2 in Coursera too. Just to fresh my knowledge. And I like "Introduction in Git" on Udasity more. 
+ First of all, I need to say that I pass week 1 and week 2 in Coursera too. Just to fresh my knowledge. And I like "Introduction in Git" on Udasity more. 
 
 Also, after I did my first pull request, learning how to do it was really confusing. But I treated this as a repetition of already established material. 
 Learning how to do rebase was really new to me, so I can practice more and understand better how it works in Git. 
 
 After all, I am proud of myself for passing this stage.
+
+___
+
+## Intro to HTML and CSS
+
+Please, look at all **tests** which I must be solved on the topic "Intro to HTML and CSS".
+
+<details> 
+ <summary>Intro to HTML and CSS</summary> 
+  
+ ![week1](task_html_css_intro/week_1.png) 
+ ![week2](task_html_css_intro/week_2.png) 
+ ![codecadamy](task_html_css_intro/codecadamy.png)  
+  
+ </details>
+
+Working out the given lectures, I repeated all the basic concepts of HTML and CSS. Can't say that it was new information to me, but I will definitely remember how to correctly understand positioning CSS offset properties.
+
+Think about these offsets is not top or left but more like from the top and from left it was new to me.
+Also, I liked Codecadamy tasks too.  
+
+___
+
