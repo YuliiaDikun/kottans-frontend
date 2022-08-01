@@ -95,3 +95,23 @@ Also, I liked Codecadamy tasks too.
 
 ___
 
+## Responsive Web Design
+
+Please, look at all **tests** which I must be solved on the topic "Responsive Web Design".
+
+<details> 
+ <summary>Responsive Web Desig</summary> 
+  
+ ![flexbox-froggy](task_responsive_web_design/flexbox_froggy.png) 
+ ![grid-garden](task_responsive_web_design/grid-garden.png)  
+  
+ </details>
+
+Flex and grid are two powerful technology in CSS, so lean they are a must-have for everyone who want to be a frontend developer.
+Working out the given lectures, it was nice to better know about the "flex" property and finally used it the right way in my work. 
+
+Playing games helped me quickly consolidate the material I had learned before. 
+
+Responsive design is that which it is impossible to imagine modern web content. 
+
+___
