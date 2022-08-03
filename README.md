@@ -115,3 +115,13 @@ Playing games helped me quickly consolidate the material I had learned before.
 Responsive design is that which it is impossible to imagine modern web content. 
 
 ___
+
+## HTML-CSS-Popup
+
+This is my HTML CSS practice "Hooly Popup". In this task, I learned more about checkboxes and selector different combinators in CSS. Also, I repeat the BEM structure. You can see my result behind.
+
+[Demo](https://yuliiadikun.github.io/Popup/) |
+
+[Code base](https://github.com/YuliiaDikun/Popup)
+
+___
