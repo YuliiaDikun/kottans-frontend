@@ -125,3 +125,26 @@ This is my HTML CSS practice "Hooly Popup". In this task, I learned more about c
 [Code base](https://github.com/YuliiaDikun/Popup)
 
 ___
+
+## JS Basics
+
+Please, look at all **tests** which I must be solved on the topic "JS Basics".
+
+<details> 
+ <summary>JS Basics</summary> 
+  
+ ![coursera](task_js_basics/coursera.png) 
+ ![freecodecamp_1](task_js_basics/freecadecamp_1.png)  
+ ![freecodecamp_2](task_js_basics/freecodecamp_2.png)
+ ![freecodecamp_3](task_js_basics/freecodecamp_3.png)
+  
+ </details>
+
+So, that was hard. Really! I learned basic JavaScript before, but I stopped an Array task. Now, I need to learn objects, dynamic typing, recursion, destructuring assignment, etc.  And as I say, I only new primitive values and arrays. 
+
+The base is the main thing, so I used a lot of additional materials in this task. Also, I started a course "Full Javascript: from the beginning" on Udemy in parallel with this task. Because of this, this task took the longest time to complete. 
+
+Algorithm Scripting Challenges was the hardest and I used tips to complete it. I definitely will be back to this in the future.
+Finally, I have never solved so many tasks in so much time, so I feel my mind is blown up, but keep going. 
+
+___
