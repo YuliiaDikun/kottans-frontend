@@ -133,8 +133,8 @@ Please, look at all **tests** which I must be solved on the topic "JS Basics".
 <details> 
  <summary>JS Basics</summary> 
   
- ![coursera](task_js_basics/coursera.png) 
- ![freecodecamp_1](task_js_basics/freecadecamp_1.png)  
+ ![coursera](task_js_basics/coursera-week-4.png) 
+ ![freecodecamp_1](task_js_basics/freecodecamp_1.png)  
  ![freecodecamp_2](task_js_basics/freecodecamp_2.png)
  ![freecodecamp_3](task_js_basics/freecodecamp_3.png)
   
