@@ -148,3 +148,37 @@ Algorithm Scripting Challenges was the hardest and I used tips to complete it. I
 Finally, I have never solved so many tasks in so much time, so I feel my mind is blown up, but keep going. 
 
 ___
+
+## DOM
+
+Please, look at all **tests** which I must be solved on the topic "DOM".
+
+<details> 
+ <summary>DOM</summary> 
+  
+ ![coursera](task_js_dom/coursera_week-5_DOM.png) 
+ ![freecodecamp](task_js_dom/freecodecamp_algorithm_18.png  
+
+ </details>
+
+ Also, please look at my homework: 
+ 
+[Demo](https://yuliiadikun.github.io/DOM/) |
+
+[Code base](https://github.com/YuliiaDikun/DOM) 
+
+For the very first time, I got acquainted with the concepts of a document object model, listener, events in Javascript, etc. I never used it before and honestly is the first time when I write a working code by myself. As I said in the previous task, I started a full javascript course in udemy. I try learning task by task and I can't imagine how I did it without all knowledge I had in this course. Also, thanks a lot to reviewers for their time!
+
+I hope you enjoy my homework and know something new.
+
+___
+
+## A Tiny JS World
+
+Please, look at my homework:
+
+[Demo](https://yuliiadikun.github.io/a-tiny-JS-world/) |
+
+[Code base](https://github.com/YuliiaDikun/a-tiny-JS-world/blob/master/index.js) 
+
+That was a useful task to understand how to create an object in javascript and repeat the work with the array.prototype.map() and array.prototype.join() methods in javascript. 
