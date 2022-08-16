@@ -157,7 +157,7 @@ Please, look at all **tests** which I must be solved on the topic "DOM".
  <summary>DOM</summary> 
   
  ![coursera](task_js_dom/coursera_week-5_DOM.png) 
- ![freecodecamp](task_js_dom/freecodecamp_algorithm_18.png  
+ ![freecodecamp](task_js_dom/freecodecamp_algorithm_18.png)  
 
  </details>
 
