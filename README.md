@@ -201,7 +201,7 @@ And look in my homework:
 
 [Demo](https://yuliiadikun.github.io/frontend-nanodegree-arcade-game/) |
 
-[Code base](hhttps://github.com/YuliiaDikun/frontend-nanodegree-arcade-game/blob/master/js/app.js)
+[Code base](https://github.com/YuliiaDikun/frontend-nanodegree-arcade-game/blob/master/js/app.js)
 
 This was a hard task for me. I use a lot of additional material, but I am so grateful for the reviewer, who help me improve my code. It is still hard to understand to me, why it is called object, not prototype-oriented programming. First I used a class syntax to complete this homework, but when I rewrite it in prototype syntax, I feel I am still confused.
 Hope I will figure it out as soon as possible.
